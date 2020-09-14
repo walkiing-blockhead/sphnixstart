@@ -6,11 +6,18 @@
 Welcome to 行走的大傻's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   example
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+
+    beginning/index
+    base/index
+    tool/index
+
+
 
 Indices and tables
 ==================
